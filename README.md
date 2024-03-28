@@ -1,6 +1,7 @@
 <h1>english for me</h1>
 <h2>навыки и количество времени</h2>
 <ul>
+	<li><a href="content/02-pre-a1>pre A1<a/></li>
   <li><a href="content/01_a1-c2_description/1.1_a1-beginner.md">A1 beginner</a></li>
   <li><a href="content/01_a1-c2_description/1.2_a1-elementary.md">A1 elementary</a></li>
   <li><a href="content/01_a1-c2_description/1.3_a2-pre-intermediate.md">A2 pre-intertament</a></li>
